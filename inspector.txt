@@ -1,0 +1,4 @@
+To run using inspector tool.
+Run 
+npx @modelcontextprotocol/inspector python  mcp_project/research_server.py
+in a new zsh terminal with venv activated
